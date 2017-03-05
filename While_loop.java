@@ -5,7 +5,7 @@ public class While_loop {
 		int x=0;
 		while(x<4)
 		{
-			System.out.println("While Loop ran : Iteration "+i);
+			System.out.println("While Loop ran : Iteration "+x);
 		}
 	}
 
