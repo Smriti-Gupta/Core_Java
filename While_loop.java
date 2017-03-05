@@ -6,6 +6,7 @@ public class While_loop {
 		while(x<4)
 		{
 			System.out.println("While Loop ran : Iteration "+x);
+			x++;
 		}
 	}
 
