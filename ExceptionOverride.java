@@ -1,6 +1,6 @@
 import java.util.*;
 class ExcepOverride{
-	void ovrride() throws ArithmeticException
+	void override() throws ArithmeticException
 	{
 		System.out.println("superclass method");
 	}
